@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-         Breeze Co2 Monitor
+            Co2 Gas Monitor
         </p>
           <Routes />
       </header>
